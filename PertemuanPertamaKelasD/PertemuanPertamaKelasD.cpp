@@ -21,5 +21,8 @@ int main()
 	nLuas = 0.5 * (nAlas * nTinggi);
 	cout << "Luasnya adalah= " << nLuas << endl;
 
+	int nPanjang, nLebar:
+
+
 
 }//end

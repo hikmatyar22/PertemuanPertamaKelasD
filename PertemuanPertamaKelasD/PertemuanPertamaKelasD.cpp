@@ -23,7 +23,7 @@ int main()
 
 	int nPanjang, nLebar;
 	cout << "Masukan Panjangnya= ";
-	cin >> Panjang;
+	cin >> nPanjang;
 
 
 
